@@ -15,6 +15,9 @@
 ## Things in the Repo
 
 run_analysis.R === > R file with the script
+
 Codebook.md ===> analysis on what I did
+
 Readme.md==> what you are reading now
+
 tidyData.csv ==> output of run_analysis.R
